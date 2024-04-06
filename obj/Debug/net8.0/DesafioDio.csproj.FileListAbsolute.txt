@@ -1,0 +1,14 @@
+C:\Users\thomas.fagundes\Documents\DesafioDio\bin\Debug\net8.0\DesafioDio.exe
+C:\Users\thomas.fagundes\Documents\DesafioDio\bin\Debug\net8.0\DesafioDio.deps.json
+C:\Users\thomas.fagundes\Documents\DesafioDio\bin\Debug\net8.0\DesafioDio.runtimeconfig.json
+C:\Users\thomas.fagundes\Documents\DesafioDio\bin\Debug\net8.0\DesafioDio.dll
+C:\Users\thomas.fagundes\Documents\DesafioDio\bin\Debug\net8.0\DesafioDio.pdb
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\DesafioDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\DesafioDio.AssemblyInfoInputs.cache
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\DesafioDio.AssemblyInfo.cs
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\DesafioDio.csproj.CoreCompileInputs.cache
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\DesafioDio.dll
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\refint\DesafioDio.dll
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\DesafioDio.pdb
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\DesafioDio.genruntimeconfig.cache
+C:\Users\thomas.fagundes\Documents\DesafioDio\obj\Debug\net8.0\ref\DesafioDio.dll
